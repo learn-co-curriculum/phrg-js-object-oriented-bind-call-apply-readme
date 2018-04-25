@@ -171,3 +171,4 @@ We reviewed how `this` works for simple function calls. Then we saw how `call` a
 - [MDN: Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-bind-call-apply-readme'>Javascript bind call and apply</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Bind, Call, and Apply Readme</p>
